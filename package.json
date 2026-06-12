@@ -1,0 +1,27 @@
+{
+  "name": "playwright-design-patterns",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course **\"Playwright Design Patterns\"** The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szucst/playwright-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/szucst/playwright-design-patterns/issues"
+  },
+  "homepage": "https://github.com/szucst/playwright-design-patterns#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.9.0",
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3",
+    "ts-node": "^10.9.2"
+  }
+}
